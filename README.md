@@ -8,6 +8,8 @@
 - MongoDB: `3.2.10`
 - Express: `4.14.0`
 
+## [参考来源](https://github.com/nswbmw/N-blog)
+
 ## 目录
 
 - 开发环境搭建
